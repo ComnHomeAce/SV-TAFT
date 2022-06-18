@@ -54,7 +54,7 @@
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-    <Placemark>
+  <Placemark>
     <styleUrl>#seavision</styleUrl>
     <name>SRR Bombay Sector</name>
     <Polygon>
@@ -82,6 +82,44 @@
           78.699,10.419,0
           78.699,9.19,0
           77.743,6.978,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+  <Placemark>
+    <styleUrl>#seavision</styleUrl>
+    <name>SRR Australia</name>
+    <Polygon>
+      <altitudeMode>clampToGround</altitudeMode>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+          0.0,-90.0,0
+          74.66,-3.234,0
+          77.743,0.255,0
+          91.445,0.255,0
+          106.98,-12.005,0
+          123.178,-12.005,0
+          126.687,-9.349,0
+          131.233,-8.221,0
+          135.01,-6.73,0
+          139.413,-9.664,0
+          142.68,-9.664,0
+          143.713,-8.882,0
+          144.136,-9.193,0
+          144.136,-11.805,0
+          155.232,-11.805,0
+          155.232,-13.797,0
+          160.037,-13.797,0
+          162.689,-19.97,0
+          
+            
+            
+
+          
+
+
           </coordinates>
         </LinearRing>
       </outerBoundaryIs>
