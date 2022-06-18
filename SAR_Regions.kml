@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>SAR Regions</name>
-  <Style id="svshape_color">
+  <Style id="seavision">
     <LineStyle>
       <color>ff007cf5</color>
       <width>1</width>
@@ -15,16 +15,8 @@
     </PolyStyle>
   </Style>
   <Placemark>
-    <styleUrl>#svshape_color</styleUrl>
+    <styleUrl>#seavision</styleUrl>
     <name>SRR Sri Lanka</name>
-    <ExtendedData>
-      <Data name="type">
-        <value>polygon</value>
-      </Data>
-      <Data name="name">
-        <value>SRR Sri Lanka</value>
-      </Data>
-    </ExtendedData>
     <Polygon>
       <extrude>1</extrude>
       <altitudeMode>clampToGround</altitudeMode>
