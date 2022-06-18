@@ -5,7 +5,7 @@
   <Style id="highlight">
     <LineStyle>
       <color>ff0000ff</color>
-      <width>3</width>
+      <width>4</width>
     </LineStyle>
     <PolyStyle>
       <color>1a00ffff</color>
