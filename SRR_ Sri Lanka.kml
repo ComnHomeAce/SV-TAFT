@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>SRR: Sri Lanka</name>
+  <Style id="svshape_color">
+    <LineStyle>
+      <color>ffff1493</color>
+      <width>3</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>8aff1493</color>
+      <colorMode>normal</colorMode>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+  <Placemark>
+    <styleUrl>#svshape_color</styleUrl>
+    <name>SRR: Sri Lanka</name>
+    <ExtendedData>
+      <Data name="type">
+        <value>polygon</value>
+      </Data>
+      <Data name="color">
+        <value>rgb(255, 20, 147)</value>
+      </Data>
+      <Data name="name">
+        <value>SRR: Sri Lanka</value>
+      </Data>
+      <Data name="comments">
+        <value></value>
+      </Data>
+    </ExtendedData>
+    <Polygon>
+      <extrude>1</extrude>
+      <altitudeMode>clampToGround</altitudeMode>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+          77.725,0.294,0
+          77.625,7.009,0
+          78.679,9.216,0
+          79.866,10.418,0
+          81.317,10.464,0
+          91.447,6.144,0
+          91.447,0.552,0
+          77.725,0.294,0
+          77.725,0.294,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+</Document>
+</kml>
