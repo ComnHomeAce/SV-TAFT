@@ -27,9 +27,6 @@
       <Data name="name">
         <value>SRR Sri Lanka</value>
       </Data>
-      <Data name="comments">
-        <value></value>
-      </Data>
     </ExtendedData>
     <Polygon>
       <extrude>1</extrude>
