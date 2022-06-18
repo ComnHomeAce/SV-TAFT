@@ -4,11 +4,11 @@
   <name>Sri Lanka SRR</name>
   <Style id="svshape_color">
     <LineStyle>
-      <color>ff4b0082</color>
-      <width>3</width>
+      <color>ff0F58EE</color>
+      <width>1</width>
     </LineStyle>
     <PolyStyle>
-      <color>8a4b0082</color>
+      <color>8a0F58EE</color>
       <colorMode>normal</colorMode>
       <fill>0</fill>
       <outline>1</outline>
@@ -28,7 +28,7 @@
         <value>Sri Lanka SRR</value>
       </Data>
       <Data name="comments">
-        <value>Sample comments</value>
+        <value></value>
       </Data>
     </ExtendedData>
     <Polygon>
