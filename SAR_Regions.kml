@@ -5,11 +5,11 @@
   <Style id="highlight">
     <LineStyle>
       <color>ff0000ff</color>
-      <width>2</width>
+      <width>3</width>
     </LineStyle>
     <PolyStyle>
-      <color>ff0000ff</color>
-      <fill>0</fill>
+      <color>3300ffff</color>
+      <fill>1</fill>
     </PolyStyle>
   </Style>
   <Style id="default">
