@@ -1,5 +1,4 @@
 <!--HEADER & STYLE-->
-
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
@@ -13,10 +12,8 @@
       <color>ff007cf5</color>
       <fill>0</fill>
     </PolyStyle>
-  </Style>
- 
-<!--SRI LANKA-->
-  
+  </Style> 
+<!--SRI LANKA-->  
   <Placemark>
     <styleUrl>#seavision</styleUrl>
     <name>SRR Sri Lanka</name>
@@ -38,9 +35,7 @@
       </outerBoundaryIs>
     </Polygon>
   </Placemark>
-
-<!--MALDIVES-->
-  
+<!--MALDIVES-->  
   <Placemark>
     <styleUrl>#seavision</styleUrl>
     <name>SRR Maldives</name>
