@@ -4,11 +4,11 @@
   <name>SAR Regions</name>
   <Style id="svshape_color">
     <LineStyle>
-      <color>fff57c00</color>
+      <color>ff007cf5</color>
       <width>2</width>
     </LineStyle>
     <PolyStyle>
-      <color>fff57c00</color>
+      <color>ff007cf5</color>
       <colorMode>normal</colorMode>
       <fill>0</fill>
       <outline>1</outline>
