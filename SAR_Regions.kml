@@ -8,7 +8,7 @@
       <width>2</width>
     </LineStyle>
     <PolyStyle>
-      <color>8af57c00</color>
+      <color>fff57c00</color>
       <colorMode>normal</colorMode>
       <fill>0</fill>
       <outline>1</outline>
@@ -22,7 +22,7 @@
         <value>polygon</value>
       </Data>
       <Data name="color">
-        <value>rgb(255, 20, 147)</value>
+        <value>rgb(245, 124, 0)</value>
       </Data>
       <Data name="name">
         <value>SRR Sri Lanka</value>
