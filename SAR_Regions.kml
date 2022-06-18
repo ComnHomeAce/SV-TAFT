@@ -1,3 +1,5 @@
+<!--HEADER & STYLE-->
+
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
@@ -12,11 +14,13 @@
       <fill>0</fill>
     </PolyStyle>
   </Style>
+ 
+<!--SRI LANKA-->
+  
   <Placemark>
     <styleUrl>#seavision</styleUrl>
     <name>SRR Sri Lanka</name>
     <Polygon>
-      <extrude>1</extrude>
       <altitudeMode>clampToGround</altitudeMode>
       <outerBoundaryIs>
         <LinearRing>
@@ -28,6 +32,30 @@
           78.699,10.419,0
           78.699,9.19,0
           77.743,6.978,0
+          77.743,0.255,0
+          </coordinates>
+        </LinearRing>
+      </outerBoundaryIs>
+    </Polygon>
+  </Placemark>
+
+<!--MALDIVES-->
+  
+  <Placemark>
+    <styleUrl>#seavision</styleUrl>
+    <name>SRR Maldives</name>
+    <Polygon>
+      <altitudeMode>clampToGround</altitudeMode>
+      <outerBoundaryIs>
+        <LinearRing>
+          <coordinates>
+          77.743,0.255,0
+          77.743,6.978,0
+          72.727,8.667,0
+          67.609,1.467,0
+          67.609,-3.835,0
+          74.66,-3.835,0
+          74.66,-3.234,0
           77.743,0.255,0
           </coordinates>
         </LinearRing>
