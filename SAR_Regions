@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
   <name>SAR Regions</name>
@@ -15,7 +16,7 @@
   </Style>
   <Placemark>
     <styleUrl>#svshape_color</styleUrl>
-    <name>Sri Lanka</name>
+    <name>SRR Sri Lanka</name>
     <ExtendedData>
       <Data name="type">
         <value>polygon</value>
@@ -24,7 +25,7 @@
         <value>rgb(255, 20, 147)</value>
       </Data>
       <Data name="name">
-        <value>SRR: Sri Lanka</value>
+        <value>SRR Sri Lanka</value>
       </Data>
       <Data name="comments">
         <value></value>
