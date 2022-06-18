@@ -5,13 +5,13 @@
   <Style id="svshape_color">
     <LineStyle>
       <color>fff57c00</color>
-      <width>2</width>
+      <width>1</width>
     </LineStyle>
     <PolyStyle>
       <color>8af57c00</color>
       <colorMode>normal</colorMode>
       <fill>0</fill>
-      <outline>1</outline>
+      <outline>0</outline>
     </PolyStyle>
   </Style>
   <Placemark>
