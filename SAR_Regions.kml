@@ -3,6 +3,10 @@
 <Document>
   <name>SAR Regions</name>
   <Style id="seavision">
+    <LabelStyle>
+      <color>ff007cf5</color>
+      <scale>1.5</scale>
+    </LabelStyle>
     <LineStyle>
       <color>ff007cf5</color>
       <width>1</width>
